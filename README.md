@@ -6,6 +6,7 @@
 4. Output
 5. Conclusion 
 ## Purporse
+This was created in order to simplify the cost estimating required 
 ## Instruction
 ## Input
 ## Output
